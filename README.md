@@ -1,3 +1,8 @@
+![Language](https://img.shields.io/badge/Language-HTML-orange)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Platform](https://img.shields.io/badge/Platform-Linux-blue)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)
+
 # Homework 2
 A working tutorial on how to interact with GitHub
 
