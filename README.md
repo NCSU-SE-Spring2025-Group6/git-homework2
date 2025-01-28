@@ -4,8 +4,11 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)
 
 # Homework 2
+
+## Introduction
 A working tutorial on how to interact with GitHub
 
+```sh
 ## Stage all changes for commit
 git add .
 
@@ -14,9 +17,11 @@ git commit -m "Add changes"
 
 ## Push to the remote repository
 git push origin your_unity_id
+```
 
 ## Tasks
-- [ ] Complete Git Tutorial
+##### ✅ Task List 
+- [x] Complete Git Tutorial
 - [ ] Add Screenshots to README.md
 - [ ] Modify .html File
 - [ ] Change a Footer to the Website
@@ -25,5 +30,7 @@ git push origin your_unity_id
 - [ ] Merge and Resolve Conflicts
 - [ ] Revert Commit
 - [ ] Stage Changes
+
+<!-- TODO: ![Project Screenshot](path/to/your/image.png) -->
 
 ![Project Screenshot](asset/NCSU_logo.png)
