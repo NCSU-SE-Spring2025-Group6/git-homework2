@@ -18,9 +18,9 @@ git push origin your_unity_id
 ## Tasks
 - [X] Complete Git Tutorial
 - [X] Add Screenshots to README.md
-- [ ] Modify .html File
-- [ ] Change a Footer to the Website
-- [ ] Assign "Help Wanted" Issue
+- [X] Modify .html File
+- [X] Change a Footer to the Website
+- [X] Assign "Help Wanted" Issue
 - [ ] Work on Assigned Issue
 - [ ] Merge and Resolve Conflicts
 - [ ] Revert Commit
