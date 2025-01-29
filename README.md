@@ -28,8 +28,6 @@ git push origin your_unity_id
 - [ ] Revert Commit
 - [ ] Stage Changes
 
-![Project Screenshot](asset/NCSU_logo.png)
-
 # Tutorial Screenshot
 ## Md Jakaria 
 ![Screenshot 1](asset/mjakari-1.png)
