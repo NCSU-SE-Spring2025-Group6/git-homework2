@@ -12,18 +12,50 @@
             display: flex;
             flex-direction: column;
             min-height: 100vh;
+            background-color: #f4f4f9;
+            color: #333;
         }
         .container {
             flex: 1;
             padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h1, h2, h3 {
+            color: #0056b3;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #0056b3;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
         }
         footer {
-            background-color: #f1f1f1;
+            background-color: #0056b3;
+            color: white;
             text-align: center;
-            padding: 10px;
+            padding: 20px 0;
             position: relative;
             bottom: 0;
             width: 100%;
+        }
+        .footer-content {
+            max-width: 800px;
+            margin: auto;
+        }
+        .footer-content p {
+            margin: 5px 0;
+        }
+        .footer-content .team-members {
+            margin-top: 10px;
         }
     </style>
 </head>
@@ -33,13 +65,16 @@
         <h2>Team Number: 6</h2>
         <h3>Team Members</h3>
         <ul>
-            <li>Name: Autumn Wright, Email: jmwrigh3@ncsu.edu</li>
-            <li>Name: Md Jakaria, Email: mjakari@ncsu.edu</li>
-            <li>Name: Walker Blanchard, Email: wmblanc2@ncsu.edu</li>
+            <li>Name: Autumn Wright, Email: <a href="mailto:jmwrigh3@ncsu.edu">jmwrigh3@ncsu.edu</a></li>
+            <li>Name: Md Jakaria, Email: <a href="mailto:mjakari@ncsu.edu">mjakari@ncsu.edu</a></li>
+            <li>Name: Walker Blanchard, Email: <a href="mailto:wmblanc2@ncsu.edu">wmblanc2@ncsu.edu</a></li>
         </ul>
     </div>
     <footer>
-        &copy; 2023 Your Team 6. All rights reserved.
+        <div class="footer-content">
+            <p>&copy; 2023 Team 6. All rights reserved.</p>
+            <p class="team-members">Team Members: Autumn Wright, Md Jakaria, Walker Blanchard</p>
+        </div>
     </footer>
 </body>
 </html>
