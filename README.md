@@ -16,7 +16,7 @@ git commit -m "Add changes"
 git push origin your_unity_id
 
 ## Tasks
-- [ ] Complete Git Tutorial
+- [x] Complete Git Tutorial
 - [ ] Add Screenshots to README.md
 - [ ] Modify .html File
 - [ ] Change a Footer to the Website
