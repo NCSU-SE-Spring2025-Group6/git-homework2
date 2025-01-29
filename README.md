@@ -18,8 +18,8 @@ git push origin your_unity_id
 ## Tasks
 - [x] Complete Git Tutorial
 - [x] Add Screenshots to README.md
-- [ ] Modify .html File
-- [ ] Change a Footer to the Website
+- [x] Modify .html File
+- [x] Change a Footer to the Website
 - [ ] Assign "Help Wanted" Issue
 - [ ] Work on Assigned Issue
 - [ ] Merge and Resolve Conflicts
