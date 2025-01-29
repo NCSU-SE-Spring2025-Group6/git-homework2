@@ -8,8 +8,8 @@
 ## 📝 Introduction
 A working tutorial on how to interact with GitHub
 
-![Main Progress](asset/main_prog.png)
-![Remote Progress](asset/remote_prog.png)
+![Main Progress](asset/main_prog.PNG)
+![Remote Progress](asset/remote_prog.PNG)
 
 ## Stage all changes for commit
 git add .
@@ -30,5 +30,3 @@ git push origin your_unity_id
 - [ ] Merge and Resolve Conflicts
 - [ ] Revert Commit
 - [ ] Stage Changes
-
-![Project Screenshot](asset/NCSU_logo.png)
