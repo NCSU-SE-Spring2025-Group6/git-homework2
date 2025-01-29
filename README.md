@@ -22,9 +22,9 @@ git push origin your_unity_id
 - [x] Add Screenshots to README.md
 - [x] Modify .html File
 - [x] Change a Footer to the Website
-- [ ] Assign "Help Wanted" Issue
-- [ ] Work on Assigned Issue
-- [ ] Merge and Resolve Conflicts
+- [x] Assign "Help Wanted" Issue
+- [x] Work on Assigned Issue
+- [x] Merge and Resolve Conflicts
 - [ ] Revert Commit
 - [ ] Stage Changes
 
