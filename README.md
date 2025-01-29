@@ -4,7 +4,12 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)
 
 # Homework 2
+
+## 📝 Introduction
 A working tutorial on how to interact with GitHub
+
+![Main Progress](asset/main_prog.PNG)
+![Remote Progress](asset/remote_prog.PNG)
 
 ## Stage all changes for commit
 git add .
@@ -16,20 +21,8 @@ git commit -m "Add changes"
 git push origin your_unity_id
 
 ## Tasks
-- [X] Complete Git Tutorial
-- [X] Add Screenshots to README.md
-- [X] Modify .html File
-- [X] Change a Footer to the Website
-- [X] Assign "Help Wanted" Issue
-- [ ] Work on Assigned Issue
-- [ ] Merge and Resolve Conflicts
-- [ ] Revert Commit
-- [ ] Stage Changes
-
-![Project Screenshot](asset/Main.png)
-![Project Screenshot](asset/Remote.png)
-
-# Tutorial Screenshot
-## Md Jakaria 
-![Screenshot 1](asset/mjakari-1.png)
-![Screenshot 1](asset/mjakari-2.png)
+- [X] Task 1: Complete Git Tutorial
+- [X] Task 2: Add Screenshots to README.md
+- [X] Task 3: Modify .html File
+- [ ] Task 4: Merge latest changes
+- [ ] Task 5: Review pull requests
