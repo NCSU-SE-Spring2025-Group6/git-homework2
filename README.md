@@ -16,8 +16,8 @@ git commit -m "Add changes"
 git push origin your_unity_id
 
 ## Tasks
-- [ ] Complete Git Tutorial
-- [ ] Add Screenshots to README.md
+- [X] Complete Git Tutorial
+- [X] Add Screenshots to README.md
 - [ ] Modify .html File
 - [ ] Change a Footer to the Website
 - [ ] Assign "Help Wanted" Issue
@@ -26,4 +26,5 @@ git push origin your_unity_id
 - [ ] Revert Commit
 - [ ] Stage Changes
 
-![Project Screenshot](asset/NCSU_logo.png)
+![Project Screenshot](asset/Main.png)
+![Project Screenshot](asset/Remote.png)
