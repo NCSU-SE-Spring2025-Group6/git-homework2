@@ -21,12 +21,8 @@ git commit -m "Add changes"
 git push origin your_unity_id
 
 ## Tasks
-- [X] Complete Git Tutorial
-- [X] Add Screenshots to README.md
-- [ ] Modify .html File
-- [ ] Change a Footer to the Website
-- [ ] Assign "Help Wanted" Issue
-- [ ] Work on Assigned Issue
-- [ ] Merge and Resolve Conflicts
-- [ ] Revert Commit
-- [ ] Stage Changes
+- [X] Task 1: Complete Git Tutorial
+- [X] Task 2: Add Screenshots to README.md
+- [X] Task 3: Modify .html File
+- [ ] Task 4: Merge latest changes
+- [ ] Task 5: Review pull requests
