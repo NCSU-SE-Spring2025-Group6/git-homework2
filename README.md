@@ -25,8 +25,8 @@ git push origin your_unity_id
 - [x] Assign "Help Wanted" Issue
 - [x] Work on Assigned Issue
 - [x] Merge and Resolve Conflicts
-- [ ] Revert Commit
-- [ ] Stage Changes
+- [x] Revert Commit
+- [x] Stage Changes
 
 # Tutorial Screenshot
 ## Md Jakaria 
