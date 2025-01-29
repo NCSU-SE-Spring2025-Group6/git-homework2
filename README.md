@@ -4,7 +4,12 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)
 
 # Homework 2
+
+## 📝 Introduction
 A working tutorial on how to interact with GitHub
+
+![Main Progress](asset/main_prog.png)
+![Remote Progress](asset/remote_prog.png)
 
 ## Stage all changes for commit
 git add .
@@ -16,8 +21,8 @@ git commit -m "Add changes"
 git push origin your_unity_id
 
 ## Tasks
-- [ ] Complete Git Tutorial
-- [ ] Add Screenshots to README.md
+- [X] Complete Git Tutorial
+- [X] Add Screenshots to README.md
 - [ ] Modify .html File
 - [ ] Change a Footer to the Website
 - [ ] Assign "Help Wanted" Issue
