@@ -8,9 +8,6 @@
 ## 📝 Introduction
 A working tutorial on how to interact with GitHub
 
-![Main Progress](asset/main_prog.PNG)
-![Remote Progress](asset/remote_prog.PNG)
-
 ## Stage all changes for commit
 git add .
 
@@ -37,3 +34,11 @@ git push origin your_unity_id
 ## Md Jakaria 
 ![Screenshot 1](asset/mjakari-1.png)
 ![Screenshot 1](asset/mjakari-2.png)
+
+## Autumn Wright
+![Main Progress](asset/main_prog.PNG)
+![Remote Progress](asset/remote_prog.PNG)
+
+## Walker Blanchard
+![Project Screenshot](asset/Main.png)
+![Project Screenshot](asset/Remote.png)
